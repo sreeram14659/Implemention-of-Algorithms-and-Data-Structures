@@ -1,4 +1,4 @@
-#Integer arithmetic with arbitrarily large numbers
+Integer arithmetic with arbitrarily large numbers
 
 IDE used Eclipse Photon Release (4.8.0)
 

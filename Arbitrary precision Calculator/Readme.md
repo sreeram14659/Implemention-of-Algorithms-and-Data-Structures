@@ -1,15 +1,15 @@
-**Integer arithmetic with arbitrarily large numbers
+Integer arithmetic with arbitrarily large numbers
 
-**IDE used Eclipse Photon Release (4.8.0)
+IDE used Eclipse Photon Release (4.8.0)
 
-**Implemented Integer arithmetic with arbitrarily large numbers
+Implemented Integer arithmetic with arbitrarily large numbers
 
-**Steps to compile and run code:
+Steps to compile and run code:
 - Create a new Java project.
 - paste the folder SXC180048 inside src folder.
 - Run Num.java
 
-**Select the operation which is to be performed from the following list
+Select the operation which is to be performed from the following list
 1. EvaluatePostfix, squareRoot and convertBase
 2. EvaluateInfix
 3. Fibonacci 
@@ -17,7 +17,7 @@
 5. LogFibonacci
 6. Power
 
-**Methods Implemented:
+Methods Implemented:
 1. Add
 2. Subtract
 3. Product

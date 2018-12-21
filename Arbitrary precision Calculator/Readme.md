@@ -6,7 +6,7 @@ Implemented Integer arithmetic with arbitrarily large numbers
 
 Steps to compile and run code:
 - Create a new Java project.
-- paste the folder SXC180048 inside src folder.
+- paste the file Num.java inside src folder.
 - Run Num.java
 
 Select the operation which is to be performed from the following list

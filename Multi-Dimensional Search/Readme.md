@@ -30,14 +30,21 @@ Implemented Multi-dimensional search with following Data Structures.
 
 Implementation of operations:
 1.Insert: Inserted into all the three data structres based on their fields.
+
 2.Delete: Deleted an entry from all the three data strutures.
+
 3.Find: if the id is present in idandPriceMap return the price else
 return 0.
+
 4.FindMinPrice(n):Get all the ids in which has long n using idandDescMap.
+
 For those ids get prices from the idandPriceMap and return minimum value among them.
 5.FindMaxPrice(n):Get all the ids in which has long n using idandDescMap.
 For those ids get prices from the idandPriceMap and return maximum value among them.
+
 6.FindPriceRange(n,l,h):Get all the ids in which has long n using idandDescMap.
 For those ids get prices from the idandPriceMap and check if the price is in between l and h. If yes, increase the count.
+
 7.PriceHike(l,h,r):Get all the ids in between l and h using treemap and get the price of those ids using idandPricemap, increase the price by rate r and update in the price in idandPricemap.
+
 8.RemoveNames(id,list):Get the list of description for the particular id using tree map.If the tree map description list contains given items of list, delete it and update tree map and idanddescMap.
